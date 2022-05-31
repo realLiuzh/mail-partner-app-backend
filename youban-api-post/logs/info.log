@@ -1,0 +1,136 @@
+2022-05-23 21:52:50.758 [main] INFO  com.youban.post.YoubanApiPostApplicationTests - The following profiles are active: dev
+2022-05-23 21:52:51.386 [main] INFO  org.springframework.cloud.context.scope.GenericScope - BeanFactory id=796a89b8-ddec-3c7e-9f17-8fe47418d77f
+2022-05-23 21:52:54.087 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-05-23 21:52:54.097 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-05-23 21:52:54.966 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-05-23 21:53:03.248 [main] INFO  com.youban.post.YoubanApiPostApplicationTests - Started YoubanApiPostApplicationTests in 15.211 seconds (JVM running for 16.717)
+2022-05-23 21:53:03.357 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-05-23 21:55:32.737 [main] INFO  com.youban.post.YoubanApiPostApplicationTests - The following profiles are active: dev
+2022-05-23 21:55:33.367 [main] INFO  org.springframework.cloud.context.scope.GenericScope - BeanFactory id=796a89b8-ddec-3c7e-9f17-8fe47418d77f
+2022-05-23 21:55:35.644 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-05-23 21:55:35.652 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-05-23 21:55:36.377 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-05-23 21:55:44.267 [main] INFO  com.youban.post.YoubanApiPostApplicationTests - Started YoubanApiPostApplicationTests in 16.357 seconds (JVM running for 18.037)
+2022-05-23 21:55:44.570 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-05-23 21:55:57.834 [main] INFO  com.youban.post.YoubanApiPostApplicationTests - The following profiles are active: dev
+2022-05-23 21:55:58.487 [main] INFO  org.springframework.cloud.context.scope.GenericScope - BeanFactory id=4c73cb58-5424-3d09-9a95-a507183c31d7
+2022-05-23 21:55:59.609 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 0 (http)
+2022-05-23 21:55:59.627 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-auto-1"]
+2022-05-23 21:55:59.628 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-05-23 21:55:59.628 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2022-05-23 21:55:59.795 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-05-23 21:55:59.795 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1955 ms
+2022-05-23 21:56:01.954 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-05-23 21:56:01.962 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-05-23 21:56:02.255 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-05-23 21:56:03.184 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-05-23 21:56:10.782 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-auto-1"]
+2022-05-23 21:56:10.818 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 52489 (http) with context path ''
+2022-05-23 21:56:26.098 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-05-23 21:56:26.582 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-auto-1"]
+2022-05-23 21:56:26.582 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-05-23 21:56:26.586 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-auto-1"]
+2022-05-23 21:56:26.590 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-auto-1"]
+2022-05-23 21:56:26.599 [main] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-05-23 21:56:28.151 [main] INFO  com.youban.post.YoubanApiPostApplicationTests - The following profiles are active: dev
+2022-05-23 21:56:28.428 [main] INFO  org.springframework.cloud.context.scope.GenericScope - BeanFactory id=4c73cb58-5424-3d09-9a95-a507183c31d7
+2022-05-23 21:56:28.579 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 0 (http)
+2022-05-23 21:56:28.580 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-auto-2"]
+2022-05-23 21:56:28.580 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-05-23 21:56:28.581 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2022-05-23 21:56:28.609 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-05-23 21:56:28.609 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 455 ms
+2022-05-23 21:56:30.015 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-05-23 21:56:30.241 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-05-23 21:56:31.250 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-05-23 21:56:38.425 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-auto-2"]
+2022-05-23 21:56:38.430 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 52514 (http) with context path ''
+2022-05-23 21:56:53.655 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-05-23 21:56:54.117 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-auto-2"]
+2022-05-23 21:56:54.117 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-05-23 21:56:54.120 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-auto-2"]
+2022-05-23 21:56:54.123 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-auto-2"]
+2022-05-23 21:56:54.126 [main] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-05-23 21:56:55.748 [main] INFO  com.youban.post.YoubanApiPostApplicationTests - The following profiles are active: dev
+2022-05-23 21:56:55.966 [main] INFO  org.springframework.cloud.context.scope.GenericScope - BeanFactory id=4c73cb58-5424-3d09-9a95-a507183c31d7
+2022-05-23 21:56:56.133 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 0 (http)
+2022-05-23 21:56:56.134 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-auto-3"]
+2022-05-23 21:56:56.135 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-05-23 21:56:56.135 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2022-05-23 21:56:56.170 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-05-23 21:56:56.171 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 419 ms
+2022-05-23 21:56:57.565 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-05-23 21:56:57.702 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-05-23 21:56:58.568 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-05-23 21:57:05.458 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-auto-3"]
+2022-05-23 21:57:05.462 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 52539 (http) with context path ''
+2022-05-23 21:57:20.696 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-05-23 21:57:30.839 [main] INFO  com.youban.post.YoubanApiPostApplicationTests - The following profiles are active: dev
+2022-05-23 21:57:31.918 [main] INFO  org.springframework.cloud.context.scope.GenericScope - BeanFactory id=4c73cb58-5424-3d09-9a95-a507183c31d7
+2022-05-23 21:57:33.631 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 0 (http)
+2022-05-23 21:57:33.643 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-auto-1"]
+2022-05-23 21:57:33.645 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-05-23 21:57:33.645 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2022-05-23 21:57:33.841 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-05-23 21:57:33.841 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2992 ms
+2022-05-23 21:57:36.613 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-05-23 21:57:36.624 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-05-23 21:57:37.450 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-05-23 21:57:38.949 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-05-23 21:57:40.596 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-auto-1"]
+2022-05-23 21:57:40.648 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 52671 (http) with context path ''
+2022-05-23 21:57:40.677 [main] INFO  com.alibaba.cloud.nacos.registry.NacosServiceRegistry - nacos registry, DEFAULT_GROUP youban 10.0.0.1:52671 register finished
+2022-05-23 21:57:41.346 [main] INFO  com.youban.post.YoubanApiPostApplicationTests - Started YoubanApiPostApplicationTests in 13.549 seconds (JVM running for 14.934)
+2022-05-23 21:57:42.139 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-05-23 21:57:42.143 [SpringContextShutdownHook] INFO  com.alibaba.cloud.nacos.registry.NacosServiceRegistry - De-registering from Nacos Server now...
+2022-05-23 21:57:42.150 [SpringContextShutdownHook] INFO  com.alibaba.cloud.nacos.registry.NacosServiceRegistry - De-registration finished.
+2022-05-23 21:57:51.236 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-05-23 21:58:34.435 [main] INFO  com.youban.post.YoubanApiPostApplicationTests - The following profiles are active: dev
+2022-05-23 21:58:35.103 [main] INFO  org.springframework.cloud.context.scope.GenericScope - BeanFactory id=4c73cb58-5424-3d09-9a95-a507183c31d7
+2022-05-23 21:58:36.101 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 0 (http)
+2022-05-23 21:58:36.113 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-auto-1"]
+2022-05-23 21:58:36.115 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-05-23 21:58:36.115 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2022-05-23 21:58:36.268 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-05-23 21:58:36.268 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1829 ms
+2022-05-23 21:58:38.346 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-05-23 21:58:38.355 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-05-23 21:58:38.644 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-05-23 21:58:39.559 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-05-23 21:58:41.005 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-auto-1"]
+2022-05-23 21:58:41.037 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 52695 (http) with context path ''
+2022-05-23 21:58:41.052 [main] INFO  com.alibaba.cloud.nacos.registry.NacosServiceRegistry - nacos registry, DEFAULT_GROUP youban 10.0.0.1:52695 register finished
+2022-05-23 21:58:41.684 [main] INFO  com.youban.post.YoubanApiPostApplicationTests - Started YoubanApiPostApplicationTests in 9.484 seconds (JVM running for 10.654)
+2022-05-23 21:58:42.028 [http-nio-auto-1-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-23 21:58:42.028 [http-nio-auto-1-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-05-23 21:58:42.057 [http-nio-auto-1-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 29 ms
+2022-05-23 21:58:42.597 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-05-23 21:58:42.599 [SpringContextShutdownHook] INFO  com.alibaba.cloud.nacos.registry.NacosServiceRegistry - De-registering from Nacos Server now...
+2022-05-23 21:58:42.604 [SpringContextShutdownHook] INFO  com.alibaba.cloud.nacos.registry.NacosServiceRegistry - De-registration finished.
+2022-05-23 21:58:51.685 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-05-23 22:00:15.302 [main] INFO  com.youban.post.YoubanApiPostApplicationTests - The following profiles are active: dev
+2022-05-23 22:00:16.113 [main] INFO  org.springframework.cloud.context.scope.GenericScope - BeanFactory id=4c73cb58-5424-3d09-9a95-a507183c31d7
+2022-05-23 22:00:17.177 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 0 (http)
+2022-05-23 22:00:17.190 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-auto-1"]
+2022-05-23 22:00:17.190 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-05-23 22:00:17.191 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2022-05-23 22:00:17.383 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-05-23 22:00:17.383 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2071 ms
+2022-05-23 22:00:19.951 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-05-23 22:00:19.962 [main] INFO  com.netflix.config.sources.URLConfigurationSource - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-05-23 22:00:20.374 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-05-23 22:00:21.501 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-05-23 22:00:23.242 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-auto-1"]
+2022-05-23 22:00:23.285 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 52735 (http) with context path ''
+2022-05-23 22:00:23.305 [main] INFO  com.alibaba.cloud.nacos.registry.NacosServiceRegistry - nacos registry, DEFAULT_GROUP youban 10.0.0.1:52735 register finished
+2022-05-23 22:00:24.080 [main] INFO  com.youban.post.YoubanApiPostApplicationTests - Started YoubanApiPostApplicationTests in 11.384 seconds (JVM running for 13.246)
+2022-05-23 22:00:40.710 [http-nio-auto-1-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-23 22:00:40.710 [http-nio-auto-1-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-05-23 22:00:40.736 [http-nio-auto-1-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 26 ms
+2022-05-23 22:01:30.938 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2022-05-23 22:01:30.940 [SpringContextShutdownHook] INFO  com.alibaba.cloud.nacos.registry.NacosServiceRegistry - De-registering from Nacos Server now...
+2022-05-23 22:01:30.945 [SpringContextShutdownHook] INFO  com.alibaba.cloud.nacos.registry.NacosServiceRegistry - De-registration finished.

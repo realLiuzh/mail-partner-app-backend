@@ -18,5 +18,13 @@
         <result property="groupId" column="group_id"/>
     </resultMap>
 
+    <select id="searchList" resultType="com.cqupt.entity.PostEntity">
+#         select * from
+
+
+
+
+    </select>
+
 
 </mapper>

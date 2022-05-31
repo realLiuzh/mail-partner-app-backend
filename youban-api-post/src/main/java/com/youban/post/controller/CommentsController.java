@@ -19,13 +19,6 @@ import com.youban.post.service.CommentsService;
 
 
 
-/**
- * 
- *
- * @author lzh
- * @email 1138423425@qq.com
- * @date 2022-05-15 20:08:07
- */
 @RestController
 @RequestMapping("post/comments")
 public class CommentsController {

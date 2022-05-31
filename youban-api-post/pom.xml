@@ -16,6 +16,26 @@
     </properties>
 
     <dependencies>
+        <!--Test-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <!--单元测试所需的两个依赖-->
+        <dependency>
+            <groupId>org.junit.platform</groupId>
+            <artifactId>junit-platform-launcher</artifactId>
+            <version>1.7.0</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.platform</groupId>
+            <artifactId>junit-platform-commons</artifactId>
+            <version>1.7.1</version>
+            <scope>test</scope>
+        </dependency>
+
         <dependency>
             <groupId>com.cqupt</groupId>
             <artifactId>youban-api-commons</artifactId>

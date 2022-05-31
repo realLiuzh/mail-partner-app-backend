@@ -1,5 +1,7 @@
 package com.youban.post.service.impl;
 
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import com.cqupt.query.PostQuery;
 import com.cqupt.utils.Query;
 import org.springframework.stereotype.Service;
 
@@ -22,8 +24,16 @@ public class PostServiceImpl extends ServiceImpl<PostDao, PostEntity> implements
     public PageUtils queryPage(Map<String, Object> params) {
         IPage<PostEntity> page = this.page(
                 new Query<PostEntity>().getPage(params),
-                new QueryWrapper<PostEntity>()
+                new QueryWrapper<>()
         );
+
+        return new PageUtils(page);
+    }
+
+    @Override
+    public PageUtils searchList(PostQuery postQuery) {
+        Page<PostEntity> page = new Page<>(postQuery.getPage(), postQuery.getLimit());
+        baseMapper.searchList(page,postQuery);
 
         return new PageUtils(page);
     }
